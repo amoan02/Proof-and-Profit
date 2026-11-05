@@ -1,2 +1,38 @@
 # Proof-and-Profit
 An Android app designed to help home bakery owners manage orders, baking schedules, expenses, and profits.
+# Proof & Profit – Android App Development
+
+## Project Overview
+
+Proof & Profit is an Android application I am developing to help home bakery owners manage their daily business activities. The goal is to make it easier to organize customer orders, track baking schedules, calculate expenses, and understand profits.
+
+As someone who enjoys baking from home, I wanted to create an application that solves a problem I have experienced personally. Keeping track of orders, ingredients, and customer payments can become challenging, especially when managing several orders at once.
+
+## Why This Application Is Important
+
+I believe business innovation does not always require creating something completely new. Sometimes, improving an everyday process can make a meaningful difference. Proof & Profit would bring several bakery management tasks into one application instead of requiring multiple notebooks or spreadsheets.
+
+## Planned Application Features
+
+- Customer order management
+- Baking schedule and pickup dates
+- Ingredient and expense tracking
+- Profit calculations
+- Simple navigation for home bakery owners
+
+## Development Tools
+
+For this project, I plan to explore and use:
+
+- Android Studio
+- Android SDK
+- Java and XML
+- MIT App Inventor
+- GitHub
+- Justinmind for wireframing
+
+## Project Documentation
+
+This Wiki will document my progress throughout the course, including setting up Android development tools, creating my first application, designing wireframes, and testing application features.
+
+My goal is to develop an application that is practical, organized, and easy for small bakery owners to use.
